@@ -1,10 +1,10 @@
-Instructions to run:
-For Server:
-make server
-sudo ./server
-For Client:
-make client
-./client
+Instructions to run:<br />
+For Server:<br />
+make server<br />
+sudo ./server<br />
+For Client:<br />
+make client<br />
+./client<br />
 
-Details:
-Previlige Seperation. Set the process id of child to nobody's id. Then they wont have sudo previliges. Parent will wait until the clild process/ Previlige drop is done.
+Details:<br />
+Previlige Seperation.<br /> Set the process id of child to nobody's id. Then they wont have sudo previliges. Parent will wait until the clild process/ Previlige drop is done.

@@ -12,5 +12,10 @@ For Client:<br />
 make client<br />
 ./client<br />
 
+<b>Assignment1:</b>
+
 <b>Details:</b><br />
 Previlige Seperation.<br /> Set the process id of child to nobody's id. Then they wont have sudo previliges. Parent will wait until the clild process/ Previlige drop is done.
+
+<b>Assignment2:</b><br/>
+Re execute server's child process after forking
